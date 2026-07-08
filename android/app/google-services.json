@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795103100627",
+    "project_id": "land-analysis-53b7f",
+    "storage_bucket": "land-analysis-53b7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795103100627:android:f672da2d0b931b56525e26",
+        "android_client_info": {
+          "package_name": "com.example.land_analysis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE0qN-qOppzISWN23Ml_b1apmD-_5Yz8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
